@@ -17,9 +17,5 @@ public class conversor {
         segundosRestantes = segundosRestantes % 60;
 
         System.out.println("Tempo total : " + horas + " horas " + minutos + " minutos e " + segundosRestantes + " segundos restantes" );
-
-
-
-    }
-    
+    }   
 }
