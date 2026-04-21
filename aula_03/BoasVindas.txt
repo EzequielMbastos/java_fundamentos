@@ -1,0 +1,7 @@
+public class BoasVindas {
+	public static void main(String[] args)	{
+	
+	scanner aluno = new Scanner(System.in)
+	System.out.print("Bem vinda" + aluno);
+	}
+}
