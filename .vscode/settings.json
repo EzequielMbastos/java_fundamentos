@@ -1,7 +1,7 @@
 {
     "java.project.sourcePaths": [
         "src",
-        "aula_05"
+        "aula_07(array)"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
